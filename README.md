@@ -1,1 +1,1 @@
-# MVTec-Anomaly-Detection-App
+# Anomaly-Detection-App
