@@ -27,6 +27,7 @@ The link to the paper --> https://paperswithcode.com/paper/uninformed-students-s
 ## Installation 
 clone the repository
 - git clone https://github.com/EhabIbrahim758/MVTec-Anomaly-Detection-App.git
+
 open the project in visual studio code and run this script in the terminal 
 ```python
 python app.py
