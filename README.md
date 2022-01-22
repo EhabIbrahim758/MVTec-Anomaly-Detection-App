@@ -35,4 +35,6 @@ python app.py
 then open the resulting link to the api and then input the type of the product and the image so you will get the result
 
 ## Results 
-![alt text](http://D:\ITI-- -AI-PRO\competetions\GP Anomaly Detection\Results/to/img.png)
+![bottle](https://user-images.githubusercontent.com/76840608/150634998-e68c2746-162f-41ad-a5ad-f94597ac4602.PNG)
+
+![wood](https://user-images.githubusercontent.com/76840608/150635023-deb9199c-73a1-497e-b4c3-791495234632.PNG)
